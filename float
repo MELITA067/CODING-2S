@@ -1,0 +1,7 @@
+nom1 = float (3.333)
+nom2 = float (10.401)
+nom3 = nom1 + nom2
+print (nom3)
+13.734
+round (nom3, 2)
+13.73
